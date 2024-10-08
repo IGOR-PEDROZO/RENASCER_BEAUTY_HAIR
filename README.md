@@ -24,16 +24,16 @@ Site desenvolvido como parte do projeto de extensão em Fundamentos de Computaç
 ## Imagens do Site
 
 ### Página HOME
-![Página HOME](images/nome_da_imagem_home.png)
+![Página HOME](images/HOME.png)
 
 ### Página de PROMOÇÕES
-![Página de Promoções](images/nome_da_imagem_promocoes.png)
+![Página de Promoções](images/PROMOÇÕES.png)
 
 ### Página de AGENDAMENTOS
-![Página de Agendamentos](images/nome_da_imagem_agendamentos.png)
+![Página de Agendamentos](images/AGENDAMENTOS.png)
 
 ### Página SOBRE
-![Página Sobre](images/nome_da_imagem_sobre.png)
+![Página Sobre](images/SOBRE.png)
 
 ## Como Usar
 
